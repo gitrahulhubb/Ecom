@@ -1,5 +1,5 @@
 const bar = document.getElementById('bar');
-const CLOSE = document.getElementById('CLOSE');
+const close = document.getElementById('close');
 const nav = document.getElementById('navbar');
  
 if (bar) {
